@@ -1,12 +1,12 @@
 # Project Overview
 This repository contains a comprehensive Digital Literacy Portfolio designed for first-year university students. The project showcases essential skills for academic success and online safety through various digital artifacts, including infographics, a personal portfolio, and data-driven assessments.
 # Repository Structure
-- **task-1-presentation/:** Contains the Digital Literacy Awareness Infographic (PNG/PDF).
+- **task-1-presentation/:** Contains the Digital Literacy Awareness Infographic.
 - **task-2-portfolio/:** Includes a screenshot and live link to my Personal Portfolio Website.
 - **task-3-quiz/:** Contains the link to the Digital Literacy Quiz and a summary of responses.
 - **task-4-emails/:** Includes two Professional Email Drafts for job applications and collaboration.
 - **task-5-report/:** Contains the Cybercrime Case Study on phishing.
-- **report/:** The final comprehensive Project Report (PDF/DOCX).
+- **report/:** The final comprehensive Project Report.
 # How to View This Project
 1. **Infographic:** Open the task-1-presentation/ folder to view the visual guide.
 2. **Portfolio:** Open task-2-portfolio/portfolio-link.txt and copy the URL into your browser.
