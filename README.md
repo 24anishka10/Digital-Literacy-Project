@@ -17,5 +17,7 @@ This repository contains a comprehensive Digital Literacy Portfolio designed for
 - **Web Hosting:** Google Sites
 - **Data Collection:** Google Forms
 - **Version Control:** GitHub
+# Quick Links
+**Digital Literacy Quiz :** https://docs.google.com/forms/d/e/1FAIpQLScDG6TgYLn8FVeLtsCfP47CxB_imlty14c8ocQPJay8Av6Eng/viewform
 
 ## Designed and developed by : Anishka Narang | 25BAI10513
