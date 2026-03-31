@@ -9,12 +9,12 @@ This repository contains a comprehensive Digital Literacy Portfolio designed for
 - **report/:** The final comprehensive Project Report.
 # How to View This Project
 1. **Infographic:** Open the task-1-presentation/ folder to view the visual guide.
-2. **Portfolio:** Open task-2-portfolio/portfolio-link.txt and copy the URL into your browser.
-3. **Quiz:** Access the interactive quiz via the link in task-3-quiz/quiz-link.txt.
+2. **Portfolio:** Open task-2-portfolio/ folder to view.
+3. **Quiz:** Access the interactive quiz via the link.
 4. **Full Report:** For a detailed breakdown of all tasks and reflections, refer to the report/ directory.
 # Tools Used
 - **Design:** Canva
-- **Web Hosting:** Google Sites
+- **Web Hosting:** Kaggle
 - **Data Collection:** Google Forms
 - **Version Control:** GitHub
 # Quick Links
